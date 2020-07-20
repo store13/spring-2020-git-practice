@@ -1,5 +1,6 @@
 red
-punk
+pink
 green
 yellow
 blue
+black
