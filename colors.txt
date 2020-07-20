@@ -4,5 +4,7 @@ green
 yellow
 blue
 black
+turquaz
+orange
 
 
